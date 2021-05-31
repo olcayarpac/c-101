@@ -1,0 +1,13 @@
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\bin\Debug\netcoreapp3.1\try_catch.exe
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\bin\Debug\netcoreapp3.1\try_catch.deps.json
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\bin\Debug\netcoreapp3.1\try_catch.runtimeconfig.json
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\bin\Debug\netcoreapp3.1\try_catch.runtimeconfig.dev.json
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\bin\Debug\netcoreapp3.1\try_catch.dll
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\bin\Debug\netcoreapp3.1\try_catch.pdb
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\obj\Debug\netcoreapp3.1\try_catch.csprojAssemblyReference.cache
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\obj\Debug\netcoreapp3.1\try_catch.AssemblyInfoInputs.cache
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\obj\Debug\netcoreapp3.1\try_catch.AssemblyInfo.cs
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\obj\Debug\netcoreapp3.1\try_catch.csproj.CoreCompileInputs.cache
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\obj\Debug\netcoreapp3.1\try_catch.dll
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\obj\Debug\netcoreapp3.1\try_catch.pdb
+C:\Users\Olcay\projects\kodluyoruz\c#101\try_catch\try_catch\obj\Debug\netcoreapp3.1\try_catch.genruntimeconfig.cache
