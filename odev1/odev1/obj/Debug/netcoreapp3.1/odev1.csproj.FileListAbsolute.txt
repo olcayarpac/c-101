@@ -1,0 +1,13 @@
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.exe
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.deps.json
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.json
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.runtimeconfig.dev.json
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.dll
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\bin\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.csprojAssemblyReference.cache
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfoInputs.cache
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.AssemblyInfo.cs
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.csproj.CoreCompileInputs.cache
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.dll
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.pdb
+C:\Users\Olcay\projects\kodluyoruz\c#101\odev1\odev1\obj\Debug\netcoreapp3.1\odev1.genruntimeconfig.cache
